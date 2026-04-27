@@ -101,7 +101,7 @@ The Open Home Foundation manages roadmap opportunities through this structured p
 
 ## 🎯 Current Roadmap
 
-View our active roadmap opportunities and their progress on our [Project Board](https://github.com/orgs/OpenHomeFoundation/projects/8).
+View our active roadmap opportunities and their progress on our [Project Board](http://ohf.to/roadmap).
 
 ## 💬 Get involved
 
